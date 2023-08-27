@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我将博士毕业于四川成都的 电子科技大学 信息与软件工程学院，我的导师是周世杰教授。包括合著，我已经发表 10+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=XdJAWQkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=XdJAWQkAAAAJ'></a>。
 
 我的研究领域包括：
 - 差分隐私
