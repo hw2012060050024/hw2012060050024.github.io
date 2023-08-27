@@ -69,17 +69,17 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 [comment]: < # 🏅 荣誉奖项> 
-[//]: # 🏅 荣誉奖项
-[//]: #  *2015.11*   
+ 
+ 
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
-- *2021.10*,  
+[comment]: <  # 🏛️ 学术会议 >
+[comment]: < - *2021.10*, > 
 
 <span class='anchor' id='-gzsx'></span>
 
-[//]: < # 💻 工作实习>
-[//]: <- *2018.05 - 2020.02*,>
+[comment]: <  # 💻 工作实习>>
+[comment]: < - *2018.05 - 2020.02*,>>
   
 
