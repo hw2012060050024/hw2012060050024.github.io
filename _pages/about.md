@@ -68,7 +68,7 @@ redirect_from:
   
 <span class='anchor' id='-ryjx'></span>
 
-[comment]: <
+[comment]: < # 🏅 荣誉奖项> 
 # 🏅 荣誉奖项
 - *2015.11*   
 
@@ -81,5 +81,5 @@ redirect_from:
 
 # 💻 工作实习
 - *2018.05 - 2020.02*,
-  > 
+  
 
