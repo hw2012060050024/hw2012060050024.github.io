@@ -79,7 +79,7 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-[comment]: <  # 💻 工作实习>>
-[comment]: < - *2018.05 - 2020.02*,>>
+[comment]: <  # 💻 工作实习 >
+[comment]: < - *2018.05 - 2020.02*, >
   
 
