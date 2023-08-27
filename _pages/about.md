@@ -31,7 +31,7 @@ redirect_from:
 
 # 🎓 学历
 - *2018.09 - 2022.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/uestc.bmp" width="23pt"></a> 电子科技大学 信息与软件工程学院 软件工程, 四川成都, 硕博连读
-- - *2016.09 - 2018.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/uestc.bmp" width="23pt"></a> 电子科技大学 计算机科学与工程学院 信息安全, 四川成都, 推免读研 
+- *2016.09 - 2018.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/uestc.bmp" width="23pt"></a> 电子科技大学 计算机科学与工程学院 信息安全, 四川成都, 推免读研 
 - *2012.09 - 2016.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/uestc.bmp" width="20pt"></a> 电子科技大学 计算机科学与工程学院 计算机科学与技术, 四川成都
  
 <span class='anchor' id='-lwzl'></span>
