@@ -21,13 +21,9 @@ redirect_from:
  <a href='https://scholar.google.com/citations?user=XdJAWQkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 差分隐私
+- 离散对数
+ 
   
 
 
