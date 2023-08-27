@@ -41,10 +41,40 @@ redirect_from:
 
 ### 英文
 ---
+
+
+- Huang, W., Zhou, S., Liao, Y., & Zhuo, M. (2019). Optimizing query times for multiple users scenario of differential privacy. IEEE Access, 7, 183292-183299.
+
+- Liao, Y., Chen, H., Huang, W., Mohammed, R., Pan, H., & Zhou, S. (2019). Insecurity of an IBEET scheme and an ABEET scheme. IEEE Access, 7, 25087-25094.
+
+- Huang, W., Liao, Y., Zhou, S., & Chen, H. (2019). An efficient deniable authenticated encryption scheme for privacy protection. IEEE Access, 7, 43453-43461.
+
+- Huang, W., Zhou, S., Liao, Y., & Chen, H. (2019). An efficient differential privacy logistic classification mechanism. IEEE Internet of Things Journal, 6(6), 10620-10626.
+
+- Huang, W., Zhou, S., Zhu, T., Liao, Y., Wu, C., & Qiu, S. (2020, December). Improving laplace mechanism of differential privacy by personalized sampling. In 2020 IEEE 19th international conference on trust, security and privacy in computing and communications (TrustCom) (pp. 623-630). IEEE.
+
+- Huang, W., Zhou, S., & Liao, Y. (2021). Unexpected information leakage of differential privacy due to the linear property of queries. IEEE Transactions on Information Forensics and Security, 16, 3123-3137.
+
+- Huang, W., Zhou, S., Zhu, T., & Liao, Y. (2021). Privately publishing internet of things data: Bring personalized sampling into differentially private mechanisms. IEEE Internet of Things Journal, 9(1), 80-91.
+
+- Qiu, S., Liu, Q., Zhou, S., & Huang, W. (2022). Adversarial attack and defense technologies in natural language processing: A survey. Neurocomputing, 492, 278-307.
+
+- Zhang, Z., Huang, W., Zhou, S., & Liao, Y. (2022). A revocable multi-authority fine-grained access control architecture against ciphertext rollback attack for mobile edge computing. Journal of Systems Architecture, 129, 102589.
+
+- Zhuo, M., Huang, W., Liu, L., Zhou, S., & Tian, Z. (2022). A High-Utility Differentially Private Mechanism for Space Information Networks. Remote Sensing, 14(22), 5844.
+
+- Zhang, Z., Huang, W., Cai, S., Yang, L., Liao, Y., & Zhou, S. (2022). An efficient reusable attribute-based signature scheme for mobile services with multi access policies in fog computing. Computer Communications, 196, 9-22.
+
+- Huang, W., Zhuo, M., Zhu, T., Zhou, S., & Liao, Y. (2023). Differential privacy: Review of improving utility through cryptography‐based technologies. Concurrency and Computation: Practice and Experience, 35(5), e7565.
+
+- Liu, Y., Huang, W., Zhuo, M., Zhou, S., & Li, M. (2023). Mobile Payment Protocol with Deniably Authenticated Property. Sensors, 23(8), 3927.
+
 - Zhang, Z., `Huang, W.`, Yang, L., Liao, Y., & Zhou, S. (2023). A Stronger Secure Ciphertext Fingerprint based Commitment Scheme for Robuster Verifiable OD-CP-ABE in IMCC. IEEE Internet of Things Journal.
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+
+
+
+
 
 
 
@@ -65,15 +95,15 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
+- *2015.11*   
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
+- *2021.10*,  
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
+- *2018.05 - 2020.02*,  
 
