@@ -69,8 +69,8 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 [comment]: < # 🏅 荣誉奖项> 
-# 🏅 荣誉奖项
-- *2015.11*   
+[//]: # 🏅 荣誉奖项
+[//]: #  *2015.11*   
 
 <span class='anchor' id='-xshy'></span>
 
