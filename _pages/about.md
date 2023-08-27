@@ -38,9 +38,9 @@ redirect_from:
 
 # 📝 论文
 
-- Zhang, Z., `Huang, W.`, Yang, L., Liao, Y., 3=＆ Zhou, S. (2023). A Stronger Secure Ciphertext Fingerprint based Commitment Scheme for Robuster Verifiable OD-CP-ABE in IMCC. IEEE Internet of Things Journal.
+- Zhang, Z., `Huang, W.`, Yang, L., Liao, Y., ＆ Zhou, S. (2023). A Stronger Secure Ciphertext Fingerprint based Commitment Scheme for Robuster Verifiable OD-CP-ABE in IMCC. IEEE Internet of Things Journal.
 
-- Liu, Y., `Huang, W.`, Zhuo, M., Zhou, S., 3=＆ Li, M. (2023). Mobile Payment Protocol with Deniably Authenticated Property. Sensors, 23(8), 3927.
+- Liu, Y., `Huang, W.`, Zhuo, M., Zhou, S., ＆ Li, M. (2023). Mobile Payment Protocol with Deniably Authenticated Property. Sensors, 23(8), 3927.
 
 - `Huang, W.`, Zhuo, M., Zhu, T., Zhou, S., 3=＆ Liao, Y. (2023). Differential privacy: Review of improving utility through cryptography‐based technologies. Concurrency and Computation: Practice and Experience, 35(5), e7565.
 
