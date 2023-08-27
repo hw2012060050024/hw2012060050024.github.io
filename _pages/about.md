@@ -36,10 +36,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
-
-### 英文
----
+# 📝 论文
 
 - Zhang, Z., `Huang, W.`, Yang, L., Liao, Y., \& Zhou, S. (2023). A Stronger Secure Ciphertext Fingerprint based Commitment Scheme for Robuster Verifiable OD-CP-ABE in IMCC. IEEE Internet of Things Journal.
 
@@ -68,14 +65,10 @@ redirect_from:
 - Liao, Y., Chen, H., `Huang, W.`, Mohammed, R., Pan, H., & Zhou, S. (2019). Insecurity of an IBEET scheme and an ABEET scheme. IEEE Access, 7, 25087-25094.
 
 - `Huang, W.`, Zhou, S., Liao, Y., & Zhuo, M. (2019). Optimizing query times for multiple users scenario of differential privacy. IEEE Access, 7, 183292-183299.
-
-
-
-
-
-
+  
 <span class='anchor' id='-ryjx'></span>
 
+[comment]: <
 # 🏅 荣誉奖项
 - *2015.11*   
 
@@ -87,5 +80,6 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*,  
+- *2018.05 - 2020.02*,
+  > 
 
